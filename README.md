@@ -27,69 +27,69 @@ To get started with this repository, follow these steps:
 
 ## Data Structures
 The following data structures are currently implemented in this repository:
--  `Arrays`
--  `Linked Lists`
--  `Stacks`
--  `Queues`
+- [ ] `Arrays`
+- [ ] `Linked Lists`
+- [ ] `Stacks`
+- [ ] `Queues`
 -  `Trees`
-   -  `Binary Trees`
-   -  `Binary Search Trees (BST)`
-   -  `AVL Trees`
-   -  `B-Trees`
+   - [ ] `Binary Trees`
+   - [ ] `Binary Search Trees (BST)`
+   - [ ] `AVL Trees`
+   - [ ] `B-Trees`
 - `Heaps`
-   -  `Binary Heaps`
-   -  `Priority Queues`
--  `Hash Tables`
+   - [ ] `Binary Heaps`
+   - [ ] `Priority Queues`
+- [ ] `Hash Tables`
 -  `Graphs`
-   -  `Directed Graphs`
-   -  `Undirected Graphs`
-   -  `Weighted Graphs`
--  `Tries`
--  `Hash Sets`
--  `Hash Maps`
--  `Doubly Linked Lists`
+   - [ ] `Directed Graphs`
+   - [ ] `Undirected Graphs`
+   - [ ] `Weighted Graphs`
+- [ ] `Tries`
+- [ ] `Hash Sets`
+- [ ] `Hash Maps`
+- [ ] `Doubly Linked Lists`
 
 ## Algorithms
 The following algorithms are currently implemented in this repository:
 -  `Searching`
-   -  `Linear Search`
-   -  `Binary Search`
-   -  `Hashing (Hash Table)`
+   - [ ] `Linear Search`
+   - [x] `Binary Search`
+   - [ ] `Hashing (Hash Table)`
 -  `Sorting`
-   -  `Bubble Sort`
-   -  `Selection Sort`
-   -  `Insertion Sort`
-   -  `Merge Sort`
-   -  `Quick Sort`
-   -  `Heap Sort`
-   -  `Radix Sort`
-   -  `Counting Sort`
+   - [x] `Bubble Sort`
+   - [ ] `Selection Sort`
+   - [ ] `Insertion Sort`
+   - [ ] `Merge Sort`
+   - [ ] `Quick Sort`
+   - [ ] `Heap Sort`
+   - [ ] `Radix Sort`
+   - [ ] `Counting Sort`
 -  `Graph`
-   -  `Depth-First Search (DFS)`
-   -  `Breadth-First Search (BFS)`
-   -  `Dijkstra's Algorithm (Shortest Path)`
-   -  `Bellman-Ford Algorithm (Shortest Path)`
-   -  `Prim's Algorithm (Minimum Spanning Tree)`
-   -  `Kruskal's Algorithm (Minimum Spanning Tree)`
-   -  `Topological Sorting`
--  `Tree`
-   -  `Binary Search Tree (BST)`
-   -  `AVL Tree`
-   -  `Red-Black Tree`
-   -  `Heap (Binary Heap)`
-   -  `Trie (Prefix Tree)`
--  `Dynamic Programming`
-   -  `Fibonacci Sequence`
-   -  `Knapsack Problem`
-   -  `Longest Common Subsequence`
-   -  `Matrix Chain Multiplication`
-   -  `Coin Change Problem`
--  `Backtracking`
-   -  `N-Queens Problem`
-   -  `Sudoku Solver`
-   -  `Subset Sum Problem`
-   -  `Hamiltonian Path`
-   -  `Graph Coloring`
+   - [ ] `Depth-First Search (DFS)`
+   - [ ] `Breadth-First Search (BFS)`
+   - [ ] `Dijkstra's Algorithm (Shortest Path)`
+   - [ ] `Bellman-Ford Algorithm (Shortest Path)`
+   - [ ] `Prim's Algorithm (Minimum Spanning Tree)`
+   - [ ] `Kruskal's Algorithm (Minimum Spanning Tree)`
+   - [ ] `Topological Sorting`
+- [ ] `Tree`
+   - [ ] `Binary Search Tree (BST)`
+   - [ ] `AVL Tree`
+   - [ ] `Red-Black Tree`
+   - [ ] `Heap (Binary Heap)`
+   - [ ] `Trie (Prefix Tree)`
+- [ ] `Dynamic Programming`
+   - [ ] `Fibonacci Sequence`
+   - [ ] `Knapsack Problem`
+   - [ ] `Longest Common Subsequence`
+   - [ ] `Matrix Chain Multiplication`
+   - [ ] `Coin Change Problem`
+- [ ] `Backtracking`
+   - [ ] `N-Queens Problem`
+   - [ ] `Sudoku Solver`
+   - [ ] `Subset Sum Problem`
+   - [ ] `Hamiltonian Path`
+   - [ ] `Graph Coloring`
 
 Take your time to examine each algorithm and its implementation. Experiment with different inputs and test their performance.
 
