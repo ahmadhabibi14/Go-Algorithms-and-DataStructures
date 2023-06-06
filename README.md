@@ -1,46 +1,115 @@
--  **Day to 0**:
-   Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.
+# Algorithms and Data Structures in Go
+Welcome to the `Data Structures and Algorithms in Go` repository! This repository serves as a collection of various data structures and algorithms implemented in the Go programming language. Whether you're a beginner looking to learn the fundamentals or an experienced developer seeking to refresh your knowledge, this repository has something for you.
 
--  **Day 1**:
-   Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.
+## Table of Contents
+-  [Introduction](#introduction)
+-  [Getting Started](#getting-started)
+-  [Data Structures](#data-structures)
+-  [Algorithms](#algorithms)
+-  [Contributing](#contributing)
+-  [License](#license)
 
--  **Day 2 - 10**:
-   Let’s start with some simple data structures,
-   1. Arrays
-   2. Linked Lists
-   3. Strings
-   4. Stacks
-   5. Queues
-   
-   Understand their basic operations (insert, delete, search, traversal) and their complexity - Big-O Algorithm Complexity Cheat Sheet, and code them all.
+## Introduction
+Understanding data structures and algorithms is crucial for every programmer. They form the backbone of efficient software development and are essential for solving complex problems. This repository aims to provide you with a solid foundation in data structures and algorithms, using the Go programming language.
 
--  **Day 11 - 25**:
-   Let’s now learn some simple algorithms,
+## Getting Started
+To get started with this repository, follow these steps:
+1. Clone the repository to your local machine:
+   ```sh
+   git clone --depth=1 https://github.com/ahmadhabibi14/Go-Algorithms-and-DataStructures.git
+   ```
+2. Install Go on your machine. Visit the official [Go website](https://go.dev/doc/install) for installation instructions specific to your operating system.
+3. Navigate to the repository's directory:
+   ```sh
+   cd Go-Algorithms-and-DataStructures
+   ```
+4. Explore the available data structures and algorithms implemented in Go. Each topic is organized in its own directory, containing the source code and relevant documentation.
 
-   1. **Sorting** - Insertion sort, Merge sort, Quick sort, Heap sort, Bucket sort, Counting sort, Radix sort, External sorting
-   2. **Search** - Linear search, Binary Search (along with its variants).
-   3. **Prime Numbers** - Sieve of Eratosthenes, Primality test
-   4. **Strings** - String searching, LCS, Palindrome detection
-   5. **Miscellaneous** - Euclidean algorithm, Matrix multiplication, Fibonacci Numbers, Pascal's Triangle, Max Subarray problem
+## Data Structures
+The following data structures are currently implemented in this repository:
+-  `Arrays`
+-  `Linked Lists`
+-  `Stacks`
+-  `Queues`
+-  `Trees`
+   -  `Binary Trees`
+   -  `Binary Search Trees (BST)`
+   -  `AVL Trees`
+   -  `B-Trees`
+- `Heaps`
+   -  `Binary Heaps`
+   -  `Priority Queues`
+-  `Hash Tables`
+-  `Graphs`
+   -  `Directed Graphs`
+   -  `Undirected Graphs`
+   -  `Weighted Graphs`
+-  `Tries`
+-  `Hash Sets`
+-  `Hash Maps`
+-  `Doubly Linked Lists`
 
--  **Day 26 - 50**:
-   Once you are comfortable with everything above, start doing problems from,
-   1. Cracking the Coding Interview
-   2. Elements of Programming Interviews
-   3. Programming Interviews Exposed: Secrets to Landing Your Next Job
-   4. GeeksforGeeks
-   5. HackerRank
-   6. InterviewBit
-   Stick to chapters of arrays, linked lists, strings, stacks, queues and complexity.
+## Algorithms
+The following algorithms are currently implemented in this repository:
+-  `Searching`
+   -  `Linear Search`
+   -  `Binary Search`
+   -  `Hashing (Hash Table)`
+-  `Sorting`
+   -  `Bubble Sort`
+   -  `Selection Sort`
+   -  `Insertion Sort`
+   -  `Merge Sort`
+   -  `Quick Sort`
+   -  `Heap Sort`
+   -  `Radix Sort`
+   -  `Counting Sort`
+-  `Graph`
+   -  `Depth-First Search (DFS)`
+   -  `Breadth-First Search (BFS)`
+   -  `Dijkstra's Algorithm (Shortest Path)`
+   -  `Bellman-Ford Algorithm (Shortest Path)`
+   -  `Prim's Algorithm (Minimum Spanning Tree)`
+   -  `Kruskal's Algorithm (Minimum Spanning Tree)`
+   -  `Topological Sorting`
+-  `Tree`
+   -  `Binary Search Tree (BST)`
+   -  `AVL Tree`
+   -  `Red-Black Tree`
+   -  `Heap (Binary Heap)`
+   -  `Trie (Prefix Tree)`
+-  `Dynamic Programming`
+   -  `Fibonacci Sequence`
+   -  `Knapsack Problem`
+   -  `Longest Common Subsequence`
+   -  `Matrix Chain Multiplication`
+   -  `Coin Change Problem`
+-  `Backtracking`
+   -  `N-Queens Problem`
+   -  `Sudoku Solver`
+   -  `Subset Sum Problem`
+   -  `Hamiltonian Path`
+   -  `Graph Coloring`
 
--  **Day 51 - 60**: Let’s learn some non-linear data structures,
-   1. Tree
-      -  Binary Tree, Binary Search Tree - Tree traversals, Lowest common ancestor, Depth, Height & Diameter, Finding k-th smallest element
-      -  Heaps
-   2. Hash table - 4 sum problem, Checking if sudoku solution is valid
-   3. Graph - Breadth-first search, Depth-first search, Topological sorting, Minimum spanning tree, Shortest path problem,
-- **Day 61- 90**: Refer to the previous resources and start doing problems from trees, hash tables, heaps and graphs.
+Take your time to examine each algorithm and its implementation. Experiment with different inputs and test their performance.
 
-- **Day 91 - 100**: Understand Computational complexity theory and NP-completeness, Knapsack problem, Travelling salesman problem, SAT problem and so on.
+## Contributing
+Contributions to this repository are welcome! If you would like to add a new data structure or algorithm, fix a bug, or improve the existing code, follow these steps:
 
-- **Day 101 - [...]**: You are now better than most of the CS undergrads. Keep revising the above topics and start competitive programming! Good luck!
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+   ```sh
+   git checkout -b feature/new-data-structure
+   ```
+3. Make your changes and commit them with descriptive messages:
+   ```sh
+   git commit -m "Add new data structure: AVL Tree"
+   ```
+4. Push your changes to your forked repository:
+   ```sh
+   git push origin feature/new-data-structure
+   ```
+5. Open a pull request in this repository, explaining the changes you made and their purpose.
+
+## License
+This repository is licensed under the MIT License. Feel free to use the code provided here for personal or commercial purposes.
