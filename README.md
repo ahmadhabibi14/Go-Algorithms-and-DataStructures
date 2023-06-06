@@ -31,16 +31,16 @@ The following data structures are currently implemented in this repository:
 - [ ] `Linked Lists`
 - [ ] `Stacks`
 - [ ] `Queues`
--  `Trees`
+- [ ] `Trees`
    - [ ] `Binary Trees`
    - [ ] `Binary Search Trees (BST)`
    - [ ] `AVL Trees`
    - [ ] `B-Trees`
-- `Heaps`
+- [ ] `Heaps`
    - [ ] `Binary Heaps`
    - [ ] `Priority Queues`
 - [ ] `Hash Tables`
--  `Graphs`
+- [ ] `Graphs`
    - [ ] `Directed Graphs`
    - [ ] `Undirected Graphs`
    - [ ] `Weighted Graphs`
@@ -51,11 +51,11 @@ The following data structures are currently implemented in this repository:
 
 ## Algorithms
 The following algorithms are currently implemented in this repository:
--  `Searching`
+- [ ] `Searching`
    - [ ] `Linear Search`
    - [x] `Binary Search`
    - [ ] `Hashing (Hash Table)`
--  `Sorting`
+- [ ] `Sorting`
    - [x] `Bubble Sort`
    - [ ] `Selection Sort`
    - [ ] `Insertion Sort`
@@ -64,7 +64,7 @@ The following algorithms are currently implemented in this repository:
    - [ ] `Heap Sort`
    - [ ] `Radix Sort`
    - [ ] `Counting Sort`
--  `Graph`
+- [ ] `Graph`
    - [ ] `Depth-First Search (DFS)`
    - [ ] `Breadth-First Search (BFS)`
    - [ ] `Dijkstra's Algorithm (Shortest Path)`
