@@ -110,6 +110,3 @@ Contributions to this repository are welcome! If you would like to add a new dat
    git push origin feature/new-data-structure
    ```
 5. Open a pull request in this repository, explaining the changes you made and their purpose.
-
-## License
-This repository is licensed under the MIT License. Feel free to use the code provided here for personal or commercial purposes.
