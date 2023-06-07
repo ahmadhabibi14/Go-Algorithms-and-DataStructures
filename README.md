@@ -7,7 +7,6 @@ Welcome to the `Data Structures and Algorithms in Go` repository! This repositor
 -  [Data Structures](#data-structures)
 -  [Algorithms](#algorithms)
 -  [Contributing](#contributing)
--  [License](#license)
 
 ## Introduction
 Understanding data structures and algorithms is crucial for every programmer. They form the backbone of efficient software development and are essential for solving complex problems. This repository aims to provide you with a solid foundation in data structures and algorithms, using the Go programming language.
