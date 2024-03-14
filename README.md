@@ -2,11 +2,13 @@
 Welcome to the `Data Structures and Algorithms in Go` repository! This repository serves as a collection of various data structures and algorithms implemented in the Go programming language. Whether you're a beginner looking to learn the fundamentals or an experienced developer seeking to refresh your knowledge, this repository has something for you.
 
 ## Table of Contents
--  [Introduction](#introduction)
--  [Getting Started](#getting-started)
--  [Data Structures](#data-structures)
--  [Algorithms](#algorithms)
--  [Contributing](#contributing)
+- [Algorithms and Data Structures in Go](#algorithms-and-data-structures-in-go)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+  - [Data Structures](#data-structures)
+  - [Algorithms](#algorithms)
+  - [Contributing](#contributing)
 
 ## Introduction
 Understanding data structures and algorithms is crucial for every programmer. They form the backbone of efficient software development and are essential for solving complex problems. This repository aims to provide you with a solid foundation in data structures and algorithms, using the Go programming language.
@@ -26,8 +28,8 @@ To get started with this repository, follow these steps:
 
 ## Data Structures
 The following data structures are currently implemented in this repository:
-- [ ] `Arrays`
-- [ ] `Linked Lists`
+- [x] `Arrays`
+- [x] `Linked Lists`
 - [ ] `Stacks`
 - [ ] `Queues`
 - [ ] `Trees`
