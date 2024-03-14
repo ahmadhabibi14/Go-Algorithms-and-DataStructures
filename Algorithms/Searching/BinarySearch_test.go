@@ -1,6 +1,9 @@
-package main
+package searching
 
-import "fmt"
+import (
+	"fmt"
+	"testing"
+)
 
 // binarySearch searches for a target value in a sorted array.
 // It returns the index of the target if found, or -1 if not found.
@@ -23,7 +26,7 @@ func binarySearch(arr []int, target int) int {
 	return -1
 }
 
-func main() {
+func TestBinarySearch(t *testing.T) {
 	// Example usage
 	arr := []int{2, 4, 7, 10, 14, 19, 22, 30}
 	target := 14

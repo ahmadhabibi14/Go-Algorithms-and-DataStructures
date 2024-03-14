@@ -1,6 +1,9 @@
-package main
+package sorting
 
-import "fmt"
+import (
+	"fmt"
+	"testing"
+)
 
 func bubbleSort(arr []int) {
 	n := len(arr)
@@ -14,7 +17,7 @@ func bubbleSort(arr []int) {
 	}
 }
 
-func main() {
+func TestBubbleSort(t *testing.T) {
 	arr := []int{5, 2, 8, 12, 3}
 
 	fmt.Println("Array before sorting:", arr)

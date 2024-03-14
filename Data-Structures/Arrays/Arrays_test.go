@@ -1,10 +1,11 @@
-package main
+package arrays
 
 import (
 	"fmt"
+	"testing"
 )
 
-func main() {
+func TestArray(t *testing.T) {
 	// Declaration and initialization of an array
 	var numbers [5]int
 

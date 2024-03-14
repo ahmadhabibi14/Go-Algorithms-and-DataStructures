@@ -1,6 +1,9 @@
-package main
+package arrays
 
-import "fmt"
+import (
+	"fmt"
+	"testing"
+)
 
 func reverseArray(arr []int) []int {
 	var n = len(arr) - 1
@@ -9,7 +12,8 @@ func reverseArray(arr []int) []int {
 	}
 	return arr
 }
-func main() {
+
+func TestReverseArray(t *testing.T) {
 	var a = []int{1, 4, 3, 2}
 
 	fmt.Println("Original Array = ", a)

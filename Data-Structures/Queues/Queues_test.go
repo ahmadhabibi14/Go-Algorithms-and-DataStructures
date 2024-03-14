@@ -1,6 +1,9 @@
-package main
+package queues
 
-import "fmt"
+import (
+	"fmt"
+	"testing"
+)
 
 type Queue struct {
 	items []int
@@ -19,7 +22,7 @@ func (q *Queue) Dequeue() (int, error) {
 	return item, nil
 }
 
-func main() {
+func TestQueues(t *testing.T) {
 	queue := Queue{}
 	queue.Enqueue(10)
 	queue.Enqueue(20)
