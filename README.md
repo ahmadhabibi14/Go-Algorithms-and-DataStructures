@@ -33,7 +33,7 @@ The following data structures are currently implemented in this repository:
 - [ ] `Stacks`
 - [ ] `Queues`
 - [ ] `Trees`
-   - [ ] `Binary Trees`
+   - [x] `Binary Trees`
    - [ ] `Binary Search Trees (BST)`
    - [ ] `AVL Trees`
    - [ ] `B-Trees`
