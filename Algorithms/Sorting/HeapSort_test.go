@@ -30,17 +30,17 @@ type Heap struct {}
 
 func NewHeap() *Heap { return &Heap{} }
 
-func (h *Heap) Left(array []int, root int) int {
+func (h *Heap) Left(root int) int {
 	return (root * 2) + 1
 }
 
-func (h *Heap) Right(array []int, root int) int {
+func (h *Heap) Right(root int) int {
 	return (root * 2) + 2
 }
 
 func (h *Heap) Heapify(array []int, root, length int) {
 	var max int = root
-	var l, r = h.Left(array, root), h.Right(array, root)
+	var l, r = h.Left(root), h.Right(root)
 
 	if l < length && array[l] > array[max] {
 		max = l
