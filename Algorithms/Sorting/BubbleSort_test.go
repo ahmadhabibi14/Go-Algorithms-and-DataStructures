@@ -18,11 +18,19 @@ func bubbleSort(arr []int) {
 }
 
 func TestBubbleSort(t *testing.T) {
-	arr := []int{5, 2, 8, 12, 3}
+	arr := []int{4, 8, 9, 1, 2, 5, 7, 6, 3, 0}
 
 	fmt.Println("Array before sorting:", arr)
 
 	bubbleSort(arr)
 
 	fmt.Println("Array after sorting:", arr)
+}
+
+func BenchmarkBubbleSort(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		arr := []int{4, 8, 9, 1, 2, 5, 7, 6, 3, 0}
+		bubbleSort(arr)
+		fmt.Println("Sorted with BubbleSort \t:", arr)
+	}
 }
