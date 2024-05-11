@@ -59,12 +59,13 @@ The following algorithms are currently implemented in this repository:
 - [ ] `Sorting`
    - [x] `Bubble Sort`
    - [ ] `Selection Sort`
-   - [ ] `Insertion Sort`
+   - [x]  `Insertion Sort`
    - [ ] `Merge Sort`
    - [ ] `Quick Sort`
-   - [ ] `Heap Sort`
+   - [x] `Heap Sort`
    - [ ] `Radix Sort`
    - [ ] `Counting Sort`
+   - [x] `Shell Sort`
 - [ ] `Graph`
    - [ ] `Depth-First Search (DFS)`
    - [ ] `Breadth-First Search (BFS)`
