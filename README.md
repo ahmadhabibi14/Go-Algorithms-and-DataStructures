@@ -61,7 +61,7 @@ The following algorithms are currently implemented in this repository:
    - [ ] `Selection Sort`
    - [x]  `Insertion Sort`
    - [ ] `Merge Sort`
-   - [ ] `Quick Sort`
+   - [x] `Quick Sort`
    - [x] `Heap Sort`
    - [ ] `Radix Sort`
    - [ ] `Counting Sort`
