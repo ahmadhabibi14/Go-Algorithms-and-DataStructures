@@ -67,7 +67,7 @@ The following algorithms are currently implemented in this repository:
    - [ ] `Counting Sort`
    - [x] `Shell Sort`
 - [ ] `Graph`
-   - [ ] `Depth-First Search (DFS)`
+   - [x] `Depth-First Search (DFS)`
    - [ ] `Breadth-First Search (BFS)`
    - [ ] `Dijkstra's Algorithm (Shortest Path)`
    - [ ] `Bellman-Ford Algorithm (Shortest Path)`
