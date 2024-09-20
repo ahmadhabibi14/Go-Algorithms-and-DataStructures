@@ -29,6 +29,7 @@ To get started with this repository, follow these steps:
 ## Data Structures
 The following data structures are currently implemented in this repository:
 - [x] `Arrays`
+- [x] `Slices`
 - [x] `Linked Lists`
 - [ ] `Stacks`
 - [ ] `Queues`
