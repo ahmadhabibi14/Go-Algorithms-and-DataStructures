@@ -59,7 +59,7 @@ The following algorithms are currently implemented in this repository:
    - [ ] `Hashing (Hash Table)`
 - [ ] `Sorting`
    - [x] `Bubble Sort`
-   - [ ] `Selection Sort`
+   - [x] `Selection Sort`
    - [x]  `Insertion Sort`
    - [ ] `Merge Sort`
    - [x] `Quick Sort`
